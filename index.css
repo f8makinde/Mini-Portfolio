@@ -45,6 +45,7 @@ h2 .bold-text{
     width: 250px;
     object-fit: cover;
     border-radius: 50%;
+    border: 6px solid white;
 }
 .intro{
     background: #D7D7D7;
