@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     text-align: center;
     font-family: Roboto, sans-serif;
     font-size: 21px;
@@ -44,4 +45,16 @@ h2 .bold-text{
     width: 250px;
     object-fit: cover;
     border-radius: 50%;
+}
+.intro{
+    background: #D7D7D7;
+    padding: 100px 0;
+}
+.about-me{
+    background: #FFEAEA;
+    padding: 100px 0;
+}
+.my-blog{
+    background: #EAF9FF;
+    padding: 100px 0;
 }
