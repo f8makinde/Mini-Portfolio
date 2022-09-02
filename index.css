@@ -15,11 +15,12 @@ h1{
     margin-top: 0;
 }
 h2{
-    border-top: 1px solid #C4C4C4;
+    border-top:  1px solid #C4C4C4;
     border-bottom: 1px solid #C4C4C4;
     font-size: 42px;
     font-weight: 300;
     margin-top: 0;
+    margin-bottom: 20px;
 }
 h3{
     font-size: 36px;
@@ -43,6 +44,7 @@ a:hover, a:active{
 .bold-text{
     display: block;
     font-weight: 900;
+    color: #99D930;
 }
 h1 .bold-text{
     font-size: 80px;
@@ -83,5 +85,13 @@ h2 .bold-text{
 .btn-links:hover,
 .btn-links:focus{
     background: #252525;
-    color:white;
+    color: #fff;
+}
+.my-blog .btn-links:hover,.btn-links:focus{
+    background: #fff;
+    color:#252525; 
+}
+time, .name{
+    color: #99D930;
+    font-weight: 900;
 }
