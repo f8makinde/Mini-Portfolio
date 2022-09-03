@@ -198,7 +198,7 @@ time, .name{
       }
   }
 
-  @media only screen and (max-width: 85px) {
+  @media only screen and (max-width: 115px) {
     .image{
         width: 50px;
     }
