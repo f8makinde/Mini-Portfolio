@@ -42,7 +42,7 @@ a:hover, a:active{
     display: block;
     font-weight: 900;
     color: #99D930;
-    margin: 0 10px;
+    margin: 0;
 }
 h1 .bold-text{
     font-size: 80px;
