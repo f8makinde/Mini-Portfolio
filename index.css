@@ -221,6 +221,9 @@ time, .name{
     .image{
         width: 30px;
     }
+        h3{
+        font-size: 4px;
+    }
     h1{
         font-size: 6px;
         font-weight: 100px;
@@ -236,11 +239,7 @@ time, .name{
         font-size: 6px;
         font-weight: 200px;
     }
-        h3{
-        font-size: 6px;
-        font-weight: 100px;
-        margin-top: 0;
-    }
+   
     p{
         font-size: 6px;
     }
@@ -252,10 +251,9 @@ time, .name{
       .small-text{
            font-size: 4px
        }
-        time{
-           font-size: 6px
-       }
-       span .name{
-           font-size: 6px
-       }
+      time, .name{
+    color: #99D930;
+    font-weight: 200;
+    font-size: 6px
+    }
   }
