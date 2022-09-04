@@ -222,26 +222,26 @@ time, .name{
         width: 30px;
     }
     h1{
-        font-size: 7px;
-        font-weight: 200px;
+        font-size: 6px;
+        font-weight: 100px;
         margin-top: 0;
     }
     h1 .bold-text{
-        font-size: 7px;
+        font-size: 6px;
     }
     h2{
-        font-size: 7px;
+        font-size: 6px;
     }
      h2 .bold-text{
-        font-size: 10px;
-        font-weight: 300px;
+        font-size: 6px;
+        font-weight: 200px;
     }
     p{
-        font-size: 8px;
+        font-size: 6px;
     }
    
      .btn-links{
         padding: 8px 4px;
-        font-size: 7px;
+        font-size: 6px;
     }
   }
