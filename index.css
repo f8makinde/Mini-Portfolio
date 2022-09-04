@@ -236,6 +236,11 @@ time, .name{
         font-size: 6px;
         font-weight: 200px;
     }
+        h3{
+        font-size: 6px;
+        font-weight: 100px;
+        margin-top: 0;
+    }
     p{
         font-size: 6px;
     }
@@ -244,10 +249,13 @@ time, .name{
         padding: 8px 4px;
         font-size: 6px;
     }
-       p .small-text{
-           font-size: 6px
+      .small-text{
+           font-size: 4px
        }
         time{
+           font-size: 6px
+       }
+       span .name{
            font-size: 6px
        }
   }
